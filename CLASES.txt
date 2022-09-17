@@ -1,0 +1,40 @@
+TATTO
+Id:
+-Tipo:
+1.color
+2.blanco y negro
+
+-Tamaño:
+1.mediano
+2.pequeño 
+3.grande
+
+-Nivel de complejidad:
+1. 
+2.
+3.
+-Sesiones(execente):
+
+
+superadministrador (backend)
+ID:
+-PERMISOS
+-Conexion
+-DELETE
+-UPDATE
+-CREATE
+-READ
+
+administrador (Frontend)
+
+ID:
+-CREATE
+-READ
+-Visual
+
+USER:
+ID:
+-COMENTA
+-CALIFICA
+-LISTA DE DESEOS
+
